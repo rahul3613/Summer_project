@@ -1,5 +1,7 @@
 # Summer Project
 
+## Using Machine learning for ‘premise selection’ in the Lean theorem prover
+
 ## Part 1:
 Learing Lean programming language for formal verification of mathematical proofs.
 
